@@ -1,0 +1,15 @@
+ul > li {
+    padding-bottom: 10px
+}
+
+li > span {
+    padding-right: 5px
+}
+
+.none {
+    display: none
+}
+
+.titleTaskDone {
+    color: green;
+}
